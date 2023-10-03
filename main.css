@@ -517,7 +517,7 @@ form{
         height: 30vh;
         width: 100%;
         
-        background-color: darkorange;
+        /* background-color: darkorange; */
      }
      .item-col{
         display: flex;
@@ -616,4 +616,5 @@ form{
     .box-head h5{
         font-size: 10px;
     }
+
 }
